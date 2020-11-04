@@ -1,8 +1,9 @@
 package Algorithm;
 
-public class asdf {
+public class Permutation {
 	
 	public static void main(String[] args) {
 		
 	}
+
 }
